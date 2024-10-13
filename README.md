@@ -60,8 +60,8 @@ This project applies CNNs to classify crop diseases in Rwanda, focusing on crops
 
 **Training Results:**
 
-- **Training Accuracy:** 91%
-- **Test Accuracy:** 88%
+- **Training Accuracy:** 40.00%
+- **Test Accuracy:** 39%
 
 ## 3. Conclusion
 
